@@ -1,3 +1,3 @@
 # branch-test
-tesing conflict resolution
+testing conflict resolution
 
