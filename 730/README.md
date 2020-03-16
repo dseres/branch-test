@@ -1,3 +1,2 @@
 # branch-test
-tesing conflict resolution
-
+tEsing conflict resolution
